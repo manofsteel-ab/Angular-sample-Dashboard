@@ -1,0 +1,8 @@
+{
+	"success": true,
+	"data":{
+		"firstName" : "Abhishek",
+		"lastName" : "Yadav",
+		"email": "xyz@gmail.com"
+	}
+}
